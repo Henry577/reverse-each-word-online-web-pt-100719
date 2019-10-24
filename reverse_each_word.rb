@@ -16,9 +16,7 @@ def reverse_each_word(sentence)
     
     count += 1
     
-    new_sentence = new_array.join(" ")
-    
-    p new_sentence
+   
     
   end
   
