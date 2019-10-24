@@ -4,7 +4,7 @@ def reverse_each_word(sentence)
   
   array.collect do |word|
     
-    new_word = word
+    new_word = word.reverse
     
     p new_word
     
