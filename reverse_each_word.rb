@@ -8,4 +8,6 @@ def reverse_each_word(sentence)
     
   end
   
+  p new_word
+  
 end
