@@ -6,8 +6,8 @@ def reverse_each_word(sentence)
     
     new_word = word
     
+    p new_word
+    
   end
-  
-  p new_word
   
 end
